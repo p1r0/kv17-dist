@@ -4,7 +4,7 @@
     "type": "project",
     "description": "KV17 Distribution Bundle",
     "autoload": {
-        "psr-0": { "p1r0\\": "src/" }
+        "psr-0": { "": "src/" }
     },
     "require": {
         "php": ">=5.3.3",
